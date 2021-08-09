@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "This is post to test my blog"
 ---
 
