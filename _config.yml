@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Selena(Hangyeol) Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "This blog was created for the purpose of sharing knowledge and studying."
+  location         : "NY"
+  email            : "selenapark77@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
